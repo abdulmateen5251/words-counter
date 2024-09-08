@@ -1,2 +1,3 @@
 # words-counter
 words counter
+.
